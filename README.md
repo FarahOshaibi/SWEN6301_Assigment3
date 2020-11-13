@@ -15,4 +15,5 @@ Inheritance from Interface (implements)
 
 Shape_Interface is the Interface.
 Classes (Rectangle & Triangle) are implements From the Interface (Shape_Interface)
+in sub class make @override for all abstarct method in basic class.
 Main class use to call method in other class this define data coupling 
