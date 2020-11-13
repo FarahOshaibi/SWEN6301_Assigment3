@@ -1,5 +1,5 @@
 # SWEN6301_Assigment3
-This Repository created For Assignment 3 - SWEN 6301 using Java "Shape" .
+This Repository created For Assignment 3 - SWEN 6301 using Java "Shape area" .
 
 Question
 
